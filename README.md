@@ -9,7 +9,7 @@ Sobre Mí 🌟
 
 🛠️ Tecnologías que manejo:
 Frontend: React ⚛️, Next.js, Tailwind CSS, Vite.
-Backend: NestJS, Java ☕️, Node.js.
+Backend: NestJS, Node.js.
 Bases de datos: MySQL, MongoDB, Firebase.
 Desarrollo móvil: Kotlin y Jetpack Compose.
 Otras herramientas: Postman, GitHub, Figma.
