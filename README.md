@@ -1,20 +1,17 @@
-
 ¡Hola, soy Rachel García Betancourt! 👩‍💻✨
 
-¡Bienvenido a mi espacio en GitHub! 🚀
-Soy estudiante de Ingeniería en Ciencias Informáticas en la Universidad de las Ciencias Informáticas (UCI) en La Habana, Cuba 🇨🇺. Me especializo en el desarrollo de aplicaciones web y backend, con experiencia en tecnologías modernas como React, Next.js, Tailwind CSS, NestJS, Vite, Firebase, MongoDB, MySQL y Java ☕️.
-Sobre Mí 🌟
+¡Bienvenido a mi espacio en GitHub! 🚀 Soy ingeniera en Ciencias Informáticas, egresada de la Universidad de las Ciencias Informáticas (UCI) en La Habana, Cuba 🇨🇺. Me especializo en el desarrollo de aplicaciones web y backend, con experiencia en tecnologías modernas como React, Next.js, Tailwind CSS, NestJS, Vite, Firebase, MongoDB, MySQL y Java ☕️.
+Sobre mí 🌟
 
-💻 Pasión por la programación: Me enfoco en crear soluciones eficientes ⚡ y escalables 📈, combinando diseño atractivo con funcionalidad robusta, tanto en el frontend como en el backend.
+💻 Desarrollo con propósito: Me apasiona construir soluciones eficientes ⚡ y escalables 📈, que combinen una interfaz atractiva con lógica sólida del lado del servidor. Disfruto del proceso de transformar ideas en productos funcionales y de alto impacto.
 
-🛠️ Tecnologías que manejo:
-Frontend: React ⚛️, Next.js, Tailwind CSS, Vite.
-Backend: NestJS, Node.js.
-Bases de datos: MySQL, MongoDB, Firebase.
-Desarrollo móvil: Kotlin y Jetpack Compose.
-Otras herramientas: Postman, GitHub, Figma.
+🛠️ Tecnologías que domino:
+    Frontend: React ⚛️, Next.js, Tailwind CSS, Vite
+    Backend: NestJS, Node.js
+    Bases de datos: MySQL, MongoDB, Firebase
+    Desarrollo móvil: Kotlin y Jetpack Compose
+    Herramientas complementarias: Postman, GitHub, Figma
 
-🚀 Mentalidad enfocada al crecimiento: Cada proyecto representa una oportunidad para innovar, mejorar procesos y aportar valor real. Me interesa la colaboración en iniciativas tecnológicas con impacto positivo.
+🚀 Crecimiento constante: Siempre estoy en búsqueda de nuevos retos y oportunidades para aprender. Creo en el poder de la colaboración y en la tecnología como motor de transformación positiva.
 
-📬 ¿Colaboramos?
-Explora mis proyectos y no dudes en escribirme si te gustaría trabajar juntos 🤝
+📬 ¿Colaboramos? Echa un vistazo a mis proyectos y no dudes en escribirme si crees que podemos construir algo genial juntos 🤝
