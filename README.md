@@ -1,17 +1,24 @@
-¡Hola, soy Rachel García Betancourt! 👩‍💻✨
+# ¡Hola, soy Rachel García Betancourt! 👩‍💻✨  
 
-¡Bienvenido a mi espacio en GitHub! 🚀 Soy ingeniera en Ciencias Informáticas, egresada de la Universidad de las Ciencias Informáticas (UCI) en La Habana, Cuba 🇨🇺. Me especializo en el desarrollo de aplicaciones web y backend, con experiencia en tecnologías modernas como React, Next.js, Tailwind CSS, NestJS, Vite, Firebase, MongoDB, MySQL y Java ☕️.
-Sobre mí 🌟
+Bienvenido a mi espacio en GitHub 🚀. Soy ingeniera en Ciencias Informáticas, egresada de la Universidad de las Ciencias Informáticas (UCI) en La Habana, Cuba 🇨🇺. Me especializo en **desarrollo web full-stack**, con experiencia en construir aplicaciones escalables, modernas y de alto rendimiento, tanto en **frontend** como en **backend**.  
 
-💻 Desarrollo con propósito: Me apasiona construir soluciones eficientes ⚡ y escalables 📈, que combinen una interfaz atractiva con lógica sólida del lado del servidor. Disfruto del proceso de transformar ideas en productos funcionales y de alto impacto.
+💻 **Tecnologías y herramientas que manejo**:  
+- **Frontend:** React, Next.js, Tailwind CSS, Vite, HTML5, CSS3, JavaScript/TypeScript  
+- **Backend:** Node.js, NestJS, APIs REST  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB, Firebase  
+- **Desarrollo móvil:** Kotlin, Jetpack Compose  
+- **Herramientas complementarias:** Git/GitHub, Figma, Postman, AWS  
 
-🛠️ Tecnologías que domino:
-    Frontend: React ⚛️, Next.js, Tailwind CSS, Vite
-    Backend: NestJS, Node.js
-    Bases de datos: MySQL, MongoDB, Firebase
-    Desarrollo móvil: Kotlin y Jetpack Compose
-    Herramientas complementarias: Postman, GitHub, Figma
+🌟 **Habilidades y enfoque profesional**:  
+- Creación de **interfaces dinámicas, accesibles y responsivas**  
+- Desarrollo de **APIs robustas y mantenibles** con buenas prácticas y principios SOLID  
+- Optimización de rendimiento y escalabilidad en aplicaciones web  
+- Gestión de datos en bases relacionales y no relacionales  
+- Integración de **estrategias de seguridad, validación y control de errores**  
+- Trabajo colaborativo en **equipos ágiles** usando metodologías Scrum y Kanban  
+- Experiencia en **testing y aseguramiento de calidad** para garantizar software confiable  
 
-🚀 Crecimiento constante: Siempre estoy en búsqueda de nuevos retos y oportunidades para aprender. Creo en el poder de la colaboración y en la tecnología como motor de transformación positiva.
+🚀 **Mi motivación**: Me apasiona construir soluciones que combinen **interfaz atractiva con lógica sólida** del lado del servidor. Disfruto transformar ideas en productos funcionales de alto impacto, siempre buscando la mejor experiencia para el usuario final.  
 
-📬 ¿Colaboramos? Echa un vistazo a mis proyectos y no dudes en escribirme si crees que podemos construir algo genial juntos 🤝
+📬 **¿Colaboramos?** Explora mis proyectos, echa un vistazo a mis repositorios y no dudes en escribirme si quieres construir algo innovador juntos 🤝.  
+
