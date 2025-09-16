@@ -1,15 +1,41 @@
-# ¡Hola, soy Rachel García Betancourt! 👩‍💻✨  
+# 👩‍💻 Rachel García Betancourt  
 
-Bienvenido a mi espacio en GitHub 🚀. Soy ingeniera en Ciencias Informáticas, egresada de la Universidad de las Ciencias Informáticas (UCI) en La Habana, Cuba 🇨🇺. Me especializo en **desarrollo web full-stack**, con experiencia en construir aplicaciones escalables, modernas y de alto rendimiento, tanto en **frontend** como en **backend**.  
+¡Bienvenido a mi perfil de GitHub! 🚀 Soy **desarrolladora de software full-stack** especializada en construir aplicaciones web modernas, escalables y de alto rendimiento.  
 
-💻 **Tecnologías y herramientas que manejo**:  
-- **Frontend:** React, Next.js, Tailwind CSS, Vite, HTML5, CSS3, JavaScript/TypeScript  
-- **Backend:** Node.js, NestJS, APIs REST  
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB, Firebase  
-- **Desarrollo móvil:** Kotlin, Jetpack Compose  
-- **Herramientas complementarias:** Git/GitHub, Figma, Postman, AWS  
+---
 
-🚀 **Mi motivación**: Me apasiona construir soluciones que combinen **interfaz atractiva con lógica sólida** del lado del servidor. Disfruto transformar ideas en productos funcionales de alto impacto, siempre buscando la mejor experiencia para el usuario final.  
+## 🌟 Sobre mí
 
-📬 **¿Colaboramos?** Explora mis proyectos, echa un vistazo a mis repositorios y no dudes en escribirme si quieres construir algo innovador juntos 🤝.  
+Soy apasionada por transformar ideas en soluciones funcionales y eficientes, con interfaces **dinámicas, accesibles y responsivas**. Tengo experiencia en la creación de **APIs robustas y mantenibles**, aplicando **principios de arquitectura limpia, patrones de diseño y buenas prácticas** para asegurar software confiable y fácil de mantener.  
+
+Trabajo de manera colaborativa en equipos ágiles, integrándome con diseñadores y otros desarrolladores, buscando siempre la mejor experiencia de usuario y calidad de software.
+
+---
+
+## 💻 Herramientas y Tecnologías
+
+**Lenguajes de Programación:**  
+JavaScript (ES6+), TypeScript, HTML5, CSS3, Java  
+
+**Frameworks y Librerías:**  
+React.js, Next.js, Tailwind CSS, NestJS  
+
+**Bases de Datos:**  
+MongoDB, MySQL, PostgreSQL  
+
+**Cloud & Backend Services:**  
+Firebase, AWS  
+
+**Testing y QA:**  
+Selenium con JUnit, IntelliJ IDEA  
+
+**Herramientas y Metodologías:**  
+Git, GitHub, Visual Studio Code, Postman, Scrum/Kanban  
+
+---
+
+## 📬 Contacto
+
+Explora mis proyectos y repositorios. Si quieres colaborar en algún proyecto o tienes una idea innovadora, ¡no dudes en escribirme! 🤝  
+
 
